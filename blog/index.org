@@ -1,0 +1,33 @@
+#+TITLE: Sample Blog
+#+SUBTITLE: Random Blog
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./custom.css"/>
+#+OPTIONS: toc:t
+#+OPTIONS: num:nil
+#+OPTIONS: H:4
+#+OPTIONS: ^:nil 
+#+OPTIONS: pri:t
+#+OPTIONS: html-postamble:nil
+
+* Testing
+** About
+  Hopefully this will be rendered well[fn:1] 
+  And links work [[file:tutorial.org][too]].
+** Posts
+   How are these rendered?
+** What about Tables?                                              :question:
+  | Name | Place | Animal | Things |
+  |------+-------+--------+--------|
+  | Sura | India | Lion   | Rando  |
+*** TODO How about this?
+** Example Code                                                 :code:blocks:
+   #+begin_src ruby
+     puts "Hello World"
+   #+end_src
+
+   #+begin_src javascript
+     console.log("YOLO")
+   #+end_src
+** Footnotes
+
+[fn:1] Lol

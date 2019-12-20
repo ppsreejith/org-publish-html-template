@@ -1,0 +1,16 @@
+#+TITLE: Sample Blog
+#+SUBTITLE: Random Blog
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./custom.css"/>
+#+OPTIONS: toc:t
+#+OPTIONS: num:nil
+#+OPTIONS: H:4
+#+OPTIONS: ^:nil 
+#+OPTIONS: pri:t
+#+OPTIONS: html-postamble:nil
+
+* Testing
+** About
+   Nothing much here.
+** Link here
+   This page exists only to serve a link
