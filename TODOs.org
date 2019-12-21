@@ -1,3 +1,7 @@
 * Roadmap
-** TODO Add support to publish entire project.
-** TODO Templatize for other future web projects.
+** DONE Add support to publish entire project.
+   CLOSED: [2019-12-21 Sat 21:07]
+** DONE Templatize for other future web projects.
+   CLOSED: [2019-12-21 Sat 21:07]
+** TODO Update ~.dir-locals.el~ file to use relative paths
+** TODO Update project includes to start from project root

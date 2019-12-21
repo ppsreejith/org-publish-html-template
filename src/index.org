@@ -1,18 +1,10 @@
-#+TITLE: Sample Blog
-#+SUBTITLE: Random Blog
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./styles/style.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./styles/custom.css"/>
-#+OPTIONS: toc:t
-#+OPTIONS: num:nil
-#+OPTIONS: H:4
-#+OPTIONS: ^:nil 
-#+OPTIONS: pri:t
-#+OPTIONS: html-postamble:nil
+#+INCLUDE: "./options/default-config.org"
+#+SUBTITLE: Default Subtitle
 
 * Testing
 ** About
   Hopefully this will be rendered well[fn:1] 
-  And links work [[file:tutorial/index.org][too]].
+  And [[file:posts/path/to/example-post.org][links]] work too.
 ** Posts
    How are these rendered?
 ** What about Tables?                                              :question:

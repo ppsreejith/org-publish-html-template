@@ -4,17 +4,18 @@
               :publishing-directory "~/projects/org-web/public"
               :recursive t
               :base-extension "org"
+              :exclude ".*-config.org"
               :publishing-function org-html-publish-to-html)
 
              ("styles"
-              :base-directory "~/projects/org-web/src"
+              :base-directory "~/projects/org-web/src/styles"
               :publishing-directory "~/projects/org-web/public/styles"
               :recursive t
               :base-extension "css"
               :publishing-function org-publish-attachment)
 
              ("scripts"
-              :base-directory "~/projects/org-web/src"
+              :base-directory "~/projects/org-web/src/scripts"
               :publishing-directory "~/projects/org-web/public/scripts"
               :recursive t
               :base-extension "js"
