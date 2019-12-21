@@ -3,5 +3,6 @@
    CLOSED: [2019-12-21 Sat 21:07]
 ** DONE Templatize for other future web projects.
    CLOSED: [2019-12-21 Sat 21:07]
-** TODO Update ~.dir-locals.el~ file to use relative paths
-** TODO Update project includes to start from project root
+** DONE Update ~.dir-locals.el~ file to use relative paths
+   CLOSED: [2019-12-22 Sun 01:41]
+** TODO Update project /includes/ to start from project root
