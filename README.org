@@ -1,5 +1,5 @@
 * About
-  A simpler org publish tutorial
+  A simple, customizable org publish demo
 * Instructions
 ** Publishing
 *** Spacemacs
