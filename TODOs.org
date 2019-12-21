@@ -1,10 +1,7 @@
-* Roadmap
-** DONE Add support to publish entire project.
-   CLOSED: [2019-12-21 Sat 21:07]
-** DONE Templatize for other future web projects.
-   CLOSED: [2019-12-21 Sat 21:07]
-** DONE Update ~.dir-locals.el~ file to use relative paths
-   CLOSED: [2019-12-22 Sun 01:41]
-** TODO Update project /includes/ to start from project root
-** TODO Add script to add a new post
-** TODO Add step to build project as part of CI
+* Roadmap [3/6][50%]
+  - [X] Add support to publish entire project.
+  - [X] Templatize for other future web projects.
+  - [X] Update ~.dir-locals.el~ file to use relative paths
+  - [ ] Update project /includes/ to start from project root
+  - [ ] Add script to add a new post
+  - [ ] Add step to build project as part of CI
