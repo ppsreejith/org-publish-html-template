@@ -1,7 +1,7 @@
 #+TITLE: Sample Blog
 #+SUBTITLE: Random Blog
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
-#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./custom.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./styles/style.css"/>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./styles/custom.css"/>
 #+OPTIONS: toc:t
 #+OPTIONS: num:nil
 #+OPTIONS: H:4
