@@ -1,8 +1,8 @@
 * About
-  An attempt at org publishing to html.
+  A simpler org publish tutorial
 * Instructions
-** Spacemacs
-*** Publishing
+** Publishing
+*** Spacemacs
     1. Access a file, for example ~./src/index.org~.
     2. Use ~, e e P p~ to publish the project. The output will be in the ~public~ folder.
 ** Troubleshooting
