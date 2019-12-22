@@ -7,6 +7,12 @@
   And [[file:posts/path/to/example-post.org][links]] work too.
 ** Posts
    How are these rendered?
+** Checklists? [2/3][66%]
+   - [ ] Hmm
+   - [X] Should try this
+   - [X] What about sublists? [2/2][100%]
+     - [X] Seems to work fine
+     - [X] Yep
 ** What about Tables?                                              :question:
   | Name | Place | Animal | Things |
   |------+-------+--------+--------|
